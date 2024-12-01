@@ -389,3 +389,6 @@ module th_in_pt(rt,p,s,sg,thr,h,sh)
 			[0,5,3],[0,2,5],	// bottom face
 			[1,4,5],[1,5,2]]);	// top face
 }
+
+hex_bolt(8,16);  // builds an M8x16 ISO Hex Head Screw
+
